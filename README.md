@@ -6,4 +6,3 @@ Site Link
 
 https://kmccarthy1.github.io/Portfolio/
 
-==========================================
